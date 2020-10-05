@@ -1,0 +1,25 @@
+{
+  "name": "segment-sapling",
+  "version": "1.0.0",
+  "description": "Tools to help with developing Segment tracking plans",
+  "bin": {
+    "sapling": "out/sapling.js"
+  },
+  "main": "out/index.js",
+  "author": "Christy Haragan (https://github.com/christyharagan/segment-sapling)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.1",
+    "@types/node": "^14.0.19",
+    "@types/yaml": "^1.9.7",
+    "@types/yargs": "^15.0.5"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "segment-typescript-api": "^0.6.10",
+    "segment-typescript-definitions": "^0.2.8",
+    "typescript": "^3.9.6",
+    "yaml": "^1.10.0",
+    "yargs": "^15.4.0"
+  }
+}
