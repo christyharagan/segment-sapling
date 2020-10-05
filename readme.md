@@ -1,5 +1,7 @@
 # Segment Sapling
 
+This is not a Segment official project. This is open-source software using public Segment APIs, and is made available without warranty or support.
+
 A framework for managing [Segment](https://segment.com/) tracking plans that makes it easy to integrate with version control, develop and test in a team environment (including automated testing from a build machine), and make advanced edits of the schemas in a code editor.
 
 Table of Contents
